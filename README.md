@@ -16,6 +16,27 @@
     and real-time performance evaluation.
   </p>
 
+  <!-- 🌐 LIVE DEMO SECTION -->
+  <hr>
+
+  <h2>🌐 Live Demo</h2>
+
+  <p align="center">
+    <a href="https://interviewiq-ai-96v5.onrender.com/" target="_blank">
+      <img src="https://img.shields.io/badge/🚀%20Launch%20InterviewIQ.AI-Live%20Demo-blue?style=for-the-badge" />
+    </a>
+  </p>
+
+  <p align="center">
+    👉 <b>Try the platform live and experience AI-powered interviews.</b>
+  </p>
+
+  <p align="center">
+    🔗 <a href="https://interviewiq-ai-96v5.onrender.com/" target="_blank">
+      https://interviewiq-ai-96v5.onrender.com/
+    </a>
+  </p>
+
   <hr>
 
   <h2>🎯 Features</h2>
