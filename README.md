@@ -7,117 +7,207 @@
 </head>
 <body>
 
-  <h1>🚀 InterviewIQ.AI</h1>
-  <p><strong>AI Powered Smart Interview Platform</strong></p>
+<h1 align="center">🚀 InterviewIQ.AI</h1>
 
-  <p>
-    Practice interviews with <b>AI Intelligence</b>. This platform provides 
-    role-based mock interviews with smart follow-ups, adaptive difficulty, 
-    and real-time performance evaluation.
-  </p>
+<p align="center">
+  <b>AI Powered Smart Interview Platform</b><br>
+  Practice interviews with AI intelligence, adaptive questioning, and real-time performance evaluation.
+</p>
 
-  <!-- 🌐 LIVE DEMO SECTION -->
-  <hr>
+<!-- 🌐 LIVE DEMO -->
+<hr>
 
-  <h2>🌐 Live Demo</h2>
+<h2>🌐 Live Demo</h2>
 
-  <p align="center">
-    <a href="https://interviewiq-ai-96v5.onrender.com/" target="_blank">
-      <img src="https://img.shields.io/badge/🚀%20Launch%20InterviewIQ.AI-Live%20Demo-blue?style=for-the-badge" />
-    </a>
-  </p>
+<p align="center">
+  <a href="https://interviewiq-ai-96v5.onrender.com/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀%20Launch%20InterviewIQ.AI-Live%20Demo-blue?style=for-the-badge" />
+  </a>
+</p>
 
-  <p align="center">
-    👉 <b>Try the platform live and experience AI-powered interviews.</b>
-  </p>
+<p align="center">
+  👉 Experience AI-powered mock interviews in real-time
+</p>
 
-  <p align="center">
-    🔗 <a href="https://interviewiq-ai-96v5.onrender.com/" target="_blank">
-      https://interviewiq-ai-96v5.onrender.com/
-    </a>
-  </p>
+<!-- 🔥 FEATURES BADGES -->
+<p align="center">
+  ✅ Authentication &nbsp; • &nbsp;
+  🤖 AI Interviews &nbsp; • &nbsp;
+  📊 Dashboard &nbsp; • &nbsp;
+  💳 Payments
+</p>
 
-  <hr>
+<hr>
 
-  <h2>🎯 Features</h2>
+<!-- 📸 PROJECT PREVIEW -->
+<h2>📸 Project Preview</h2>
 
-  <ul>
-    <li>Role-based interview customization</li>
-    <li>AI-driven follow-up questions</li>
-    <li>Real-time performance evaluation</li>
-    <li>Timer-based interview simulation</li>
-    <li>Downloadable PDF reports</li>
-    <li>History tracking & analytics</li>
-  </ul>
+<p align="center">
+  <img src="./assets/preview.png" alt="InterviewIQ Preview" width="90%" />
+</p>
 
-  <hr>
+<p align="center"><b>Practice Interviews with AI Intelligence</b></p>
 
-  <h2>🧠 How It Works</h2>
+<hr>
 
-  <h3>STEP 1: Role & Experience Selection</h3>
-  <p>AI adjusts difficulty based on selected job role.</p>
+<!-- 📌 OVERVIEW -->
+<h2>📌 Overview</h2>
 
-  <h3>STEP 2: Smart Voice Interview</h3>
-  <p>Dynamic follow-up questions based on your answers.</p>
+<p>
+InterviewIQ.AI is an AI-driven mock interview platform that simulates real interview environments.
+It provides role-based interviews, dynamic follow-up questions, and performance analytics to help users improve their skills.
+</p>
 
-  <h3>STEP 3: Timer Based Simulation</h3>
-  <p>Real interview pressure with time tracking.</p>
+<hr>
 
-  <hr>
+<!-- ✨ FEATURES -->
+<h2>✨ Features</h2>
 
-  <h2>⚡ Advanced AI Capabilities</h2>
+<ul>
+  <li>🤖 AI-Powered Interview System</li>
+  <li>🎯 Role-based customization</li>
+  <li>🧠 Smart follow-up questions</li>
+  <li>⏱️ Timer-based simulation</li>
+  <li>📊 Performance analytics</li>
+  <li>📄 PDF reports</li>
+  <li>🎤 Voice-based interviews</li>
+  <li>💳 Premium sessions</li>
+</ul>
 
-  <ul>
-    <li><b>AI Answer Evaluation</b> – Scores communication, technical accuracy, and confidence.</li>
-    <li><b>Resume Based Interview</b> – Generates project-specific questions from your resume.</li>
-    <li><b>Downloadable PDF Report</b> – Provides strengths, weaknesses, and improvement insights.</li>
-    <li><b>History & Analytics</b> – Track performance with graphs and topic analysis.</li>
-  </ul>
+<hr>
 
-  <hr>
+<!-- 🧩 HOW IT WORKS -->
+<h2>🧩 How It Works</h2>
 
-  <h2>🎭 Interview Modes</h2>
+<ol>
+  <li><b>Role Selection</b> – Select job role and experience level.</li>
+  <li><b>AI Interview</b> – AI generates dynamic questions and follow-ups.</li>
+  <li><b>Real Simulation</b> – Timer-based interview experience.</li>
+</ol>
 
-  <ul>
-    <li><b>HR Interview Mode</b> – Behavioral and communication-based evaluation.</li>
-    <li><b>Technical Mode</b> – Deep technical questioning based on role.</li>
-    <li><b>Confidence Detection</b> – Voice tone and confidence analysis.</li>
-    <li><b>Credits System</b> – Unlock premium interview sessions.</li>
-  </ul>
+<hr>
 
-  <hr>
+<!-- 🧠 AI CAPABILITIES -->
+<h2>🧠 AI Capabilities</h2>
 
-  <h2>📊 Actions</h2>
-  <ul>
-    <li>▶️ Start Interview</li>
-    <li>📜 View History</li>
-  </ul>
+<ul>
+  <li>Answer Evaluation (Communication & Accuracy)</li>
+  <li>Resume-based Questions</li>
+  <li>Confidence Detection</li>
+  <li>Analytics Tracking</li>
+</ul>
 
-  <hr>
+<hr>
 
-  <h2>📌 About</h2>
-  <p>
-    <b>InterviewIQ.AI</b> is an AI-powered interview preparation platform designed 
-    to improve communication skills, boost confidence, and help users perform 
-    better in real interviews.
-  </p>
+<!-- 🛠️ TECH STACK -->
+<h2>🛠️ Tech Stack</h2>
 
-  <hr>
+<ul>
+  <li><b>Frontend:</b> React (Vite)</li>
+  <li><b>Backend:</b> Node.js, Express</li>
+  <li><b>Database:</b> MongoDB</li>
+  <li><b>Auth:</b> JWT + Cookies</li>
+  <li><b>AI:</b> OpenAI APIs</li>
+  <li><b>Payments:</b> Razorpay / Cashfree</li>
+</ul>
 
-  <h2>🛠️ Tech Stack</h2>
-  <ul>
-    <li>Frontend: HTML, CSS, JavaScript / React</li>
-    <li>Backend: Node.js, Express</li>
-    <li>Database: MongoDB</li>
-    <li>AI Integration: Gemini / OpenAI APIs</li>
-  </ul>
+<hr>
 
-  <hr>
+<!-- 🔁 ARCHITECTURE -->
+<h2>🔁 Architecture</h2>
 
-  <h2>📞 Contact</h2>
-  <p>For queries or collaboration, feel free to reach out.</p>
+<pre>
+User → Frontend (React)
+     → Backend (Node.js)
+     → AI Engine (OpenAI API)
+     → Database (MongoDB)
+     → Payment Gateway
+</pre>
 
-  <p>⭐ Don't forget to star this project if you like it!</p>
+<hr>
+
+<!-- 📂 PROJECT STRUCTURE -->
+<h2>📂 Project Structure</h2>
+
+<pre>
+InterviewIQ/
+│
+├── client/                  
+│   ├── src/
+│   ├── public/
+│
+├── server/                  
+│   ├── config/
+│   ├── controllers/
+│   ├── models/
+│   ├── routes/
+│   ├── services/
+│
+└── README.md
+</pre>
+
+<hr>
+
+<!-- ⚙️ INSTALLATION -->
+<h2>⚙️ Installation</h2>
+
+<pre>
+git clone https://github.com/dhruvsharmads0506/InterviewIQ.AI.git
+cd interviewiq-ai
+</pre>
+
+<h3>Client</h3>
+<pre>
+cd client
+npm install
+npm run dev
+</pre>
+
+<h3>Server</h3>
+<pre>
+cd server
+npm install
+npm run dev
+</pre>
+
+<h3>Environment Variables</h3>
+<pre>
+MONGO_URI=
+JWT_SECRET=
+OPENAI_API_KEY=
+RAZORPAY_KEY=
+</pre>
+
+<hr>
+
+<!-- 🚀 FUTURE -->
+<h2>🚀 Future Improvements</h2>
+
+<ul>
+  <li>📹 Video interviews</li>
+  <li>🌐 Multi-language support</li>
+  <li>📱 Mobile application</li>
+</ul>
+
+<hr>
+
+<!-- 🤝 CONTRIBUTING -->
+<h2>🤝 Contributing</h2>
+<p>Fork the repository and create a pull request.</p>
+
+<hr>
+
+<!-- 📜 LICENSE -->
+<h2>📜 License</h2>
+<p>MIT License</p>
+
+<hr>
+
+<!-- 👨‍💻 AUTHOR -->
+<h2>💡 Author</h2>
+<p><b>Anup Kumar Verma</b></p>
+
+<p align="center">⭐ Star this repo if you like it!</p>
 
 </body>
 </html>
