@@ -49,7 +49,7 @@ Practice interviews with AI intelligence, adaptive questioning, and real-time pe
 <h2>📸 Project Preview</h2>
 
 <p align="center">
-  <img src="./assets/preview.png" alt="InterviewIQ Preview" width="90%">
+  <img src="assests/interview.png" alt="InterviewIQ Preview" width="90%">
 </p>
 
 <p><b>Practice Interviews with AI Intelligence</b></p>
