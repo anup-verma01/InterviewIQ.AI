@@ -28,8 +28,7 @@ Practice interviews with AI intelligence, adaptive questioning, and real-time pe
 </p>
 
 <p align="center">
-  🔗 <a href="https://examnotesai-1-sjel.onrender.com" target="_blank">
-    https://examnotesai-1-sjel.onrender.com
+  🔗 <a href="https://interviewiq-ai-96v5.onrender.com/" target="_blank">
   </a>
 </p>
 
