@@ -18,7 +18,7 @@ Practice interviews with AI intelligence, adaptive questioning, and real-time pe
 <h2>🌐 Live Demo</h2>
 
 <p align="center">
-  <a href="https://examnotesai-1-sjel.onrender.com" target="_blank">
+  <a href="https://interviewiq-ai-96v5.onrender.com/ " target="_blank">
     <img src="https://img.shields.io/badge/🚀%20Launch%20ExamNotesAI-Live%20Demo-blue?style=for-the-badge" />
   </a>
 </p>
